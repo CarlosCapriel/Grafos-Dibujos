@@ -7,15 +7,17 @@ Los archivos .txt deberán tener la siguiente estructura:
 
 <text> #</text> 4 5   // 4 -> numero de nodos ;  5 -> numero de aristas, nunca olvidar el <text>  # </text>
 
-A 1 1 //A -> nombre del nodo ; el primer 1 indica posicion en X, el segundo 1, indica posicion en Y, que son posiciones en las que queremos que se situen los nodos 
+A 1 1 //A -> nombre del nodo ; el primer 1 indica posicion en X, el segundo 1, indica posicion en Y.
+
+// X e Y son posiciones en las que queremos que se situen los nodos 
 
 B 3 1
 
 C 1 3
 
 D 3 3
-
-// Los siguientes pares de nodos indican la adyacencia de los nodos
+// el nombre de nodos deberá ser una letra de la A(mayúscula) a la Z(mayúscula).
+// Los siguientes pares de letras son los nombres de los nodos que indican la adyacencia de estos.
 
 A B
 
