@@ -16,7 +16,9 @@ B 3 1
 C 1 3
 
 D 3 3
+
 // el nombre de nodos deberá ser una letra de la A(mayúscula) a la Z(mayúscula).
+
 // Los siguientes pares de letras son los nombres de los nodos que indican la adyacencia de estos.
 
 A B
