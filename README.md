@@ -1,7 +1,7 @@
 # grafos-dibujos
 Dibujo un grafo a partir de especificaciones dentro de un archivo .txt
 
-Los archivos deberan tener la siguiente estructura:
+Los archivos .txt deberan tener la siguiente estructura:
 
 --------------------
 
@@ -29,13 +29,12 @@ C D
 
 ---------------------
 
-Precauciones: el programa es sencible a espacios entre caracteres de las lineas que especifican la posicion o adyacencia de nodos.
+_Precauciones: el programa es sencible a espacios entre caracteres de las lineas que especifican la posicion o adyacencia de nodos._
 
-Cambiar el valor de la varible: archivoDescripcionGrafo ; que se encuentra dentro de la clase PrincipalGrafoSVG.
+Cambiar el valor de la variable: archivoDescripcionGrafo que se encuentra dentro de la clase PrincipalGrafoSVG.
 
-Cambiar el valor de la variable: nombreArchivoSalidaSVG ; que se encuentra dentro de la clase PrincipalGrafoSVG si se quiere un archivo de salida .svg 
-
-con nombre distinto.
+Cambiar el valor de la variable: nombreArchivoSalidaSVG que se encuentra dentro de la clase PrincipalGrafoSVG si se quiere un archivo de salida .svg 
+ con nombre distinto.
 
 Los archivos de lectura deberán estar dentro de la carpeta raiz del proyecto, NO en en dentro de la carpeta src.
 
