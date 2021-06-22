@@ -31,7 +31,7 @@ C D
 
 _Precauciones: el programa es sencible a espacios entre caracteres de las lineas que especifican la posicion o adyacencia de nodos._
 
-Cambiar el valor de la variable: archivoDescripcionGrafo que se encuentra dentro de la clase PrincipalGrafoSVG.
+Cambiar el valor de la variable: archivoDescripcionGrafo que se encuentra dentro de la clase PrincipalGrafoSVG, sí se quiere leer otro archivo .txt.
 
 Cambiar el valor de la variable: nombreArchivoSalidaSVG que se encuentra dentro de la clase PrincipalGrafoSVG si se quiere un archivo de salida .svg 
  con nombre distinto.
