@@ -2,8 +2,9 @@
 Dibujo un grafo a partir de especificaciones dentro de un archivo .txt
 
 Los archivos deberan tener la siguiente estructura:
+
 //Inicio Documento
-<text> # </text> 4 5 // 4 -> numero de nodos ; 5 -> numero de aristas, nunca olvidar el #
+<text> # </text> 4 5 // 4 -> numero de nodos ; 5 -> numero de aristas, nunca olvidar el <text>  # </text>
 
 A 1 1 //A -> nombre del nodo ; el primer 1 indica posicion en X, el segundo 1, indica posicion en Y
 B 3 1
