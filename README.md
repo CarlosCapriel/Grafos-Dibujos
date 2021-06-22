@@ -40,7 +40,7 @@ Cambiar el valor de la variable: archivoDescripcionGrafo que se encuentra dentro
 Cambiar el valor de la variable: nombreArchivoSalidaSVG que se encuentra dentro de la clase PrincipalGrafoSVG si se quiere un archivo de salida .svg 
  con nombre distinto.
 
-Los archivos de lectura deberán estar dentro de la carpeta raíz del proyecto, NO en en dentro de la carpeta src.
+Los archivos de lectura deberán estar dentro de la carpeta raíz del proyecto, NO dentro de la carpeta src.
 
 El archivo SVG de salida, se guardará dentro de la carpeta raíz del proyecto.
 
