@@ -33,7 +33,7 @@ C D
 
 ---------------------
 
-_Precauciones: el programa es sencible a espacios entre caracteres de las lineas que especifican la posicion o adyacencia de nodos._
+_Precauciones: el programa es sencible a espacios entre caracteres de las lineas que especifican la posicion y adyacencia de nodos._
 
 Cambiar el valor de la variable: archivoDescripcionGrafo que se encuentra dentro de la clase PrincipalGrafoSVG, sí se quiere leer otro archivo .txt.
 
